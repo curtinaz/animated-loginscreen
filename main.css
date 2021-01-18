@@ -17,9 +17,9 @@ body section {
 
 @keyframes slideUp{
     from{
-
+        bottom: 0;
     }
     to{
-        
+
     }
 }
