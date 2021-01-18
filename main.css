@@ -11,6 +11,10 @@ body section {
     animation: fadeIn 400ms forwards, slideUp 400ms forwards;
 }
 
+body section h1 {
+    
+}
+
 /* ANIMATIONS */
 
 @keyframes fadeIn {
