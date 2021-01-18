@@ -7,7 +7,6 @@ body section {
 #app-box {
     opacity: 0;
     animation: fadeIn 200ms forwards, slideUp 200ms forwards;
-    animation: ;
 }
 
 /* ANIMATIONS */
