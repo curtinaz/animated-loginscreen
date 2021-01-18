@@ -5,7 +5,7 @@ body section {
 }
 
 #app-box {
-    
+    animation: fadeIn 0.2s linear 0 1 forwards forwards;
 }
 
 /* ANIMATIONS */
