@@ -5,3 +5,9 @@ body section {
 }
 
 /* ANIMATIONS */
+
+@keyframes fadeIn {
+    from{
+        opacity: 0;
+    }
+}
