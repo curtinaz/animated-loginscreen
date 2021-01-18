@@ -20,6 +20,6 @@ body section {
         transform: translateY(20px);
     }
     to{
-
+        transform: translateY(0px);
     }
 }
