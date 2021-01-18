@@ -5,7 +5,8 @@ body section {
 }
 
 #app-box {
-    animation: fadeIn 0.2s linear 0 1 forwards forwards;
+    opacity: 0;
+    animation: fadeIn 200ms forwards;
     animation: slideUp 0.2s linear 0 1 forwards forwards;
 }
 
