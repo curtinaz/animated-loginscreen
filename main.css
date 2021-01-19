@@ -16,6 +16,10 @@ body section h1 {
     font-weight: 700;
 }
 
+#social-login div {
+    border: 1px black solid;
+}
+
 /* ANIMATIONS */
 
 @keyframes fadeIn {
