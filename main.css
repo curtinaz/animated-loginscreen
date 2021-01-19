@@ -4,12 +4,13 @@ body section {
     display: grid;
     align-items: center;
     justify-items: center;
+    align-content: center;
 }
 
 #logo {
     background-image: url('./logo.svg');
     justify-self: center;
-    align-content: center;
+
 }
 
 #app-box {
