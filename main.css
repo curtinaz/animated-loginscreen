@@ -4,14 +4,7 @@ body {
     display: flex;
     align-items:center;
     justify-content: center;
-}
-
-body {
-    align-self: flex-start;
-}
-  
-body {
-    align-self: flex-end;
+    max-width: 50%;
 }
 
 body section {
