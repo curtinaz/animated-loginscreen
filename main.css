@@ -13,6 +13,7 @@ body section {
 }
 
 #app-box {
+    top: 50%;
     opacity: 0;
     animation: fadeIn 400ms forwards, slideUp 400ms forwards;
     vertical-align: center;
