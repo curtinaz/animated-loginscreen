@@ -7,7 +7,7 @@ body section {
 }
 
 #logo {
-    background-image: url(./logo.svg);
+    background-image: url('./logo.svg');
 }
 
 #app-box {
