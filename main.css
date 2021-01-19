@@ -10,10 +10,11 @@ body section {
     display: grid;
     align-items: center;
     justify-items: center;
+    margin: auto;
 }
 
 #app-box {
-    margin: auto;
+
     opacity: 0;
     animation: fadeIn 400ms forwards, slideUp 400ms forwards;
     vertical-align: center;
