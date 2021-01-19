@@ -6,6 +6,10 @@ body section {
     justify-items: center;
 }
 
+body section img {
+    background-image: url(./logo.svg);
+}
+
 #app-box {
     opacity: 0;
     animation: fadeIn 400ms forwards, slideUp 400ms forwards;
