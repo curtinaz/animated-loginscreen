@@ -6,6 +6,14 @@ body {
     justify-content: center;
 }
 
+body {
+    align-self: flex-start;
+}
+  
+body {
+    align-self: flex-end;
+}
+
 body section {
     display: grid;
     align-items: center;
