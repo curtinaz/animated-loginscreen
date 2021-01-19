@@ -10,7 +10,6 @@ body section {
     display: grid;
     align-items: center;
     justify-items: center;
-    margin: auto;
 }
 
 #app-box {
