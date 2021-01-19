@@ -12,12 +12,6 @@ body section {
     justify-items: center;
 }
 
-#logo {
-    background-image: url('./logo.svg');
-    width: 285px;
-    height: 47px;
-}
-
 #app-box {
     opacity: 0;
     animation: fadeIn 400ms forwards, slideUp 400ms forwards;
