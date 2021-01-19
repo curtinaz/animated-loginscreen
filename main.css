@@ -6,7 +6,7 @@ body section {
     justify-items: center;
 }
 
-body section img {
+#logo {
     background-image: url(./logo.svg);
 }
 
