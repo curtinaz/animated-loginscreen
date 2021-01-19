@@ -8,6 +8,7 @@ body section {
 
 #logo {
     background-image: url('./logo.svg');
+    align-self: center;
 }
 
 #app-box {
