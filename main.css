@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
 
+body {
+    display: flex;
+}
+
 body section {
     display: grid;
     align-items: center;
@@ -15,6 +19,7 @@ body section {
 #app-box {
     opacity: 0;
     animation: fadeIn 400ms forwards, slideUp 400ms forwards;
+    vertical-align: center;
 }
 
 body section h1 {
