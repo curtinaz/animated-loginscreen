@@ -37,6 +37,8 @@ body section h1 {
 
 #submit {
     border: 1px black solid;
+    border-radius: 15px;
+    width: 100%;
 }
 
 /* ANIMATIONS */
