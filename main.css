@@ -35,6 +35,10 @@ body section h1 {
     padding: 0 30px;
 }
 
+#submit {
+    
+}
+
 /* ANIMATIONS */
 
 @keyframes fadeIn {
