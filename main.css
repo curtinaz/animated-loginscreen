@@ -42,7 +42,7 @@ body section h1 {
 }
 
 #submit {
-    border: 1px black solid;
+    border: 1px #5d249e solid;
     border-radius: 15px;
     width: 100%;
     text-align: center;
