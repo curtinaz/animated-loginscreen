@@ -51,6 +51,10 @@ body section h1 {
     font-family: 'Ubuntu', sans-serif;
 }
 
+section p {
+    #818691
+}
+
 /* ANIMATIONS */
 
 @keyframes fadeIn {
