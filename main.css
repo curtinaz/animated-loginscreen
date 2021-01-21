@@ -16,7 +16,7 @@ body section {
     opacity: 0;
     animation: fadeIn 400ms forwards, slideUp 400ms forwards;
     vertical-align: center;
-    width: 10vw;
+    width: 40%;
 }
 
 #social-login {
