@@ -45,6 +45,18 @@
         pointer-events: none;
       }
 
+      .progress-bar-init .progress-container {
+        top: 0;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        position: absolute;
+        display: inline-block;
+        margin: auto;
+        width: 100%;
+        height: 4px;
+      }
+
 
 
       @keyframes load {
