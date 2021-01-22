@@ -79,9 +79,7 @@
         width: 0;
       }
 
-      .loaded .progress-fill {
-        animation: loaded 0.2s ease-in 0s forwards;
-      }
+
 
       @keyframes load {
         0% {
@@ -99,7 +97,7 @@
         50% {
           width: 80%;
         }
-        98% {
+        100% {
           width: 85%;
         }
       }
