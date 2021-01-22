@@ -16,6 +16,12 @@
         transition: 0.3s all ease 0.3s;
       }
 
+      .loaded .main-loader {
+        opacity: 0;
+        pointer-events: none;
+      }
+
+
 
       @keyframes load {
         0% {
