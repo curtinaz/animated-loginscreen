@@ -102,9 +102,6 @@
         98% {
           width: 100%;
         }
-        100% {
-          width: 0;
-        }
       }
 
       @keyframes loaded {
