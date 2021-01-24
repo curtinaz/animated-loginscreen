@@ -17,10 +17,10 @@ body section {
     align-items: center;
     justify-items: center;
 }
-
+/* 
 body section img {
     width: 50%;
-}
+} */
 
 #app-box {
     opacity: 0;
