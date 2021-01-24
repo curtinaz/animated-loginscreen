@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 600px) {
     #appbox {
         margin-top: 5%;
     }
