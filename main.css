@@ -27,6 +27,7 @@ body section {
     animation: fadeIn 400ms ease 1.5s forwards, slideUp 400ms ease 1.5s forwards;
     vertical-align: center;
     margin-top: center;
+    justify-content: center;
 }
 
 #social-login {
