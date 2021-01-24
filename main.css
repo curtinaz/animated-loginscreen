@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
 
+@media screen and (max-width: 600px) {
+    #appbox {
+        margin-top: 5%;
+    }
+  }
+
+
 .unselect {
     user-select: none;
     -moz-user-select: none;
@@ -69,12 +76,6 @@ body section h1 {
 .unregister {
     color: #818691;
 }
-
-@media screen and (max-width: 600px) {
-    #appbox {
-        margin-top: 5%;
-    }
-  }
 
 /* ANIMATIONS */
 
