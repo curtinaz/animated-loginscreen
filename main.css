@@ -70,6 +70,13 @@ body section h1 {
     color: #818691;
 }
 
+@media screen and (min-width: 600px) {
+    .topnav a {
+      float: none;
+      width: 100%;
+    }
+  }
+
 /* ANIMATIONS */
 
 @keyframes fadeIn {
