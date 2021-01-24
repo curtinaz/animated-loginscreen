@@ -28,6 +28,8 @@ body section {
     vertical-align: center;
     margin-top: center;
     justify-content: center;
+    align-items: center;
+    width: 100%;
 }
 
 #social-login {
