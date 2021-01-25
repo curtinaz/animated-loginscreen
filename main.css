@@ -52,7 +52,7 @@ body section h1 {
     width: 47.5%;
 }
 
-#emailInput {
+#email, #emailInput {
     width: 100%;
 }
 
