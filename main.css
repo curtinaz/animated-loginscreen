@@ -82,6 +82,7 @@ body section h1 {
 
 .unregister {
     color: #818691;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 @media (min-width:801px) {
