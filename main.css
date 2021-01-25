@@ -70,6 +70,8 @@ body section h1 {
     color: #818691;
 }
 
+@media (min-width:801px) {}
+
 /* ANIMATIONS */
 
 @keyframes fadeIn {
