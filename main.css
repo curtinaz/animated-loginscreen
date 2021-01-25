@@ -52,7 +52,7 @@ body section h1 {
     border: 1px black solid;
     padding: 0 30px;
     border-radius: 10px;
-    width: 47.5%;
+    width: 50%;
 }
 
 #email, #emailInput {
