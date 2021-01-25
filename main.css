@@ -39,6 +39,7 @@ body section {
     justify-items: center;
     width: 100%;
     grid-gap: 5%;
+    text-align: center;
 }
 
 body section h1 {
