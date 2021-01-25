@@ -52,6 +52,10 @@ body section h1 {
     width: 47.5%;
 }
 
+#emailInput {
+    width: 100%;
+}
+
 #facebook, #google {
     padding: 0 40%;
 }
