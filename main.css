@@ -37,6 +37,7 @@ body section {
     grid-template-columns: 1fr 1fr;
     align-items: center;
     justify-items: center;
+    width: 100%;
     grid-gap: 5%;
 }
 
