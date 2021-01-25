@@ -70,7 +70,13 @@ body section h1 {
     color: #818691;
 }
 
-@media (min-width:801px) {}
+@media (min-width:801px) {
+
+    body {
+        
+    }
+
+}
 
 /* ANIMATIONS */
 
