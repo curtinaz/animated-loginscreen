@@ -66,6 +66,10 @@ body section h1 {
     border: 0.5px #b9b9b9 solid;
 }
 
+#emailInput:hover {
+    
+}
+
 #facebook, #google {
     padding: 0 40%;
 }
