@@ -69,7 +69,7 @@ body section h1 {
 
 #emailInput:hover {
     transition: 200ms ease;
-    border: 1px #000000 solid;
+    border: 2px #000000 solid;
 }
 
 #facebook, #google {
