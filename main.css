@@ -6,6 +6,10 @@
     -webkit-user-select: none;
 }
 
+textarea:focus, input:focus{
+    outline: none;
+}
+
 body {
     display: flex;
     align-items:center;
