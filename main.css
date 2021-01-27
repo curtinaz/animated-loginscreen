@@ -78,6 +78,10 @@ body section h1 {
     border: 1px #000000 solid;
 }
 
+#emailInput:focus {
+    border: 1px #742fc2 solid;
+}
+
 #facebook, #google {
     padding: 0 40%;
 }
