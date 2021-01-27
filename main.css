@@ -74,6 +74,8 @@ body section h1 {
     border: 1px #000000 solid;
 }
 
+#mailInput {}
+
 #facebook, #google {
     padding: 0 40%;
 }
