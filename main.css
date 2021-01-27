@@ -8,6 +8,7 @@
 
 textarea:focus, input:focus{
     outline: none;
+    border: 1px #000000 solid;
 }
 
 body {
