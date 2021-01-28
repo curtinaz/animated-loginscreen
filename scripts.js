@@ -1,6 +1,6 @@
 var email = document.querySelector("#emailInput").value
 
-function isItMail() {
+const isItMail = () => {
     console.log("change")
 }
 
