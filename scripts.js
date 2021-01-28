@@ -1,1 +1,1 @@
-emailInput = document.querySelector("")
+emailInput = document.querySelector("#emailInput")
