@@ -1,6 +1,6 @@
 email = document.querySelector("#emailInput");
 
-emailInput.addEventListener("keyup", isItMail());
+email.addEventListener("keyup", isItMail());
 
 const isItMail = () => {
     console.log("keydown")
