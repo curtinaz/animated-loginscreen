@@ -1,6 +1,4 @@
-email = document.querySelector("#emailInput")
-
-email = new Text(email);
+var email = document.querySelector("#emailInput")
 
 const isItMail = () => {
     console.log("keydown")
