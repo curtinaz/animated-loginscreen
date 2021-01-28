@@ -4,7 +4,7 @@ const isItMail = () => {
     if (email.value!="") {
         console.log("email")
     } else {
-        console.log("notmail")
+        email.style="border: 0.5px #b9b9b9 solid;"
     }
 }
 
