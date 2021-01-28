@@ -2,9 +2,9 @@ email = document.querySelector("#emailInput");
 
 const isItMail = () => {
     if (email.value!="") {
-        console.log("email")
+        email.style=""
     } else {
-        email.style="border: 1px #ff0000 solid;"
+        email.style="border: 2px #ff0000 solid;"
     }
 }
 
