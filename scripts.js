@@ -1,5 +1,9 @@
 email = document.querySelector("#emailInput");
 
-const isItMail = () => console.log("changed");
+const isItMail = () => {
+    if (email.value!="") {
+        
+    }
+}
 
 email.addEventListener("change", isItMail)
