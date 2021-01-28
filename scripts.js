@@ -1,3 +1,3 @@
 emailInput = document.querySelector("#emailInput");
 
-emailInput.addEventListener("keyup", )
+emailInput.addEventListener("keyup", isItMail());
