@@ -1,4 +1,4 @@
-email = document.querySelector("#emailInput").value;
+email = document.querySelector("#emailInput");
 
 const isItMail = () => console.log("changed");
 
