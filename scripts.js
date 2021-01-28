@@ -4,5 +4,5 @@ function isItMail() {
     console.log("change")
 }
 
-email.addEventListener("change", isItMail())
+email.addEventListener("change", isItMail)
 
