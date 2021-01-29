@@ -55,6 +55,10 @@ body section h1 {
     width: 50%;
 }
 
+#email {
+    margin-bottom: 0;
+}
+
 #email, #emailInput {
     width: 100%;
 }
