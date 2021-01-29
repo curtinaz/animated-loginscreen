@@ -62,6 +62,7 @@ body section h1 {
 #spam {
     padding: 0;
     margin-top: 0;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 #email, #emailInput {
