@@ -59,6 +59,10 @@ body section h1 {
     margin-bottom: 0;
 }
 
+.left {
+    text-align: left;
+}
+
 #spam {
     padding: 0;
     margin-top: 0;
