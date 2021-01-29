@@ -59,6 +59,10 @@ body section h1 {
     margin-bottom: 0;
 }
 
+#spam {
+    padding: 0;
+}
+
 #email, #emailInput {
     width: 100%;
 }
