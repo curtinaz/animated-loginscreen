@@ -1,6 +1,6 @@
 email = document.querySelector("#emailInput");
 
-const isItMail = (mail) => {
+const isItMail = () => {
     if (email.value!="") {
         email.style="";
         email.placeholder="E-mail *";
