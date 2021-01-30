@@ -9,7 +9,7 @@ const isItMail = () => {
             email.style="border: 2px #ff0000 solid;"
             email.placeholder="Email invalido";    
         } else {
-            email.style="";
+            email.style="border: 2px #000000 solid;"
             email.placeholder="E-mail *";
         }
 
