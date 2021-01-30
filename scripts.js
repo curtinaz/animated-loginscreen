@@ -12,7 +12,7 @@ const isItMail = () => {
             console.log("false");
         }
         else {
-            console.log("false");
+            console.log("true");
         }
 
     } else {
