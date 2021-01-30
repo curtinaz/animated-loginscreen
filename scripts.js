@@ -9,6 +9,7 @@ const isItMail = (mail) => {
         var check=/@[w-]+./;
         var checkend=/.[a-zA-Z]{2,3}$/;
         if(((mail.search(exclude) != -1)||(mail.search(check)) == -1)||(mail.search(checkend) == -1)){
+            
             return false;
 
         }
