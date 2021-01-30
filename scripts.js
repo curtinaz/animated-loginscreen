@@ -1,4 +1,4 @@
-email = document.querySelector("#emailInput");
+email2 = document.querySelector("#emailInput");
 
 const isItMail = () => {
     if (email.value!="") {
