@@ -5,9 +5,12 @@ const isItMail = () => {
         email.style="";
         email.placeholder="E-mail *";
 
-        if(email.value.search("@")==-1) {
+        if(email.value.search("@")==-1 || ) {
             email.style="border: 2px #ff0000 solid;"
             email.placeholder="Email invalido";    
+        } else {
+            email.style="";
+            email.placeholder="E-mail *";
         }
 
     } else {
