@@ -5,7 +5,7 @@ const isItMail = () => {
         email.style=""
     } else {
         email.style="border: 2px #ff0000 solid;"
-        email.placeholder="O e-mail não pode ficar em branco!"
+        email.placeholder="O e-mail não pode ficar em branco!";
     }
 }
 
