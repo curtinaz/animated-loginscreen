@@ -11,7 +11,6 @@ const isItMail = (mail) => {
         if(((mail.search(exclude) != -1)||(mail.search(check)) == -1)||(mail.search(checkend) == -1)){
             console.log("false");
             return false;
-
         }
         else {
             console.log("true");
